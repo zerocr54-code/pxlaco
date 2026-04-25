@@ -21,7 +21,7 @@ function init() {
         let selectedFile = currentList[randomIndex];
 
         // Klasör yolunu oluştur (Baştaki / işaretine dikkat)
-        let newFile = "/Memes/" + folder + "/" + selectedFile;
+        let newFile = "Memes/" + folder + "/" + selectedFile;
         let newExp = now + (LOCK_HOURS * 60 * 60 * 1000);
 
         localStorage.setItem('pxla_exp', newExp);
