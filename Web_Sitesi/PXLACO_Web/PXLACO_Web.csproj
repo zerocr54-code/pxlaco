@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Include="obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" />
+	  <Compile Include="obj\Debug\net10.0\PXLACO_Web.AssemblyInfo.cs" />
+	  <Compile Include="obj\Debug\net10.0\PXLACO_Web.GlobalUsings.g.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="bin\Debug\net10.0\appsettings.Development.json" />
+	  <Content Include="bin\Debug\net10.0\appsettings.json" />
+	  <Content Include="bin\Debug\net10.0\PXLACO_Web.deps.json" />
+	  <Content Include="bin\Debug\net10.0\PXLACO_Web.runtimeconfig.json" />
+	  <Content Include="bin\Debug\net10.0\PXLACO_Web.staticwebassets.endpoints.json" />
+	  <Content Include="bin\Debug\net10.0\PXLACO_Web.staticwebassets.runtime.json" />
+	  <Content Include="obj\Debug\net10.0\ApiEndpoints.json" />
+	  <Content Include="obj\Debug\net10.0\PXLACO_Web.csproj.FileListAbsolute.txt" />
+	  <Content Include="obj\Debug\net10.0\rjsmcshtml.dswa.cache.json" />
+	  <Content Include="obj\Debug\net10.0\rjsmrazor.dswa.cache.json" />
+	  <Content Include="obj\Debug\net10.0\rpswa.dswa.cache.json" />
+	  <Content Include="obj\Debug\net10.0\staticwebassets.build.endpoints.json" />
+	  <Content Include="obj\Debug\net10.0\staticwebassets.build.json" />
+	  <Content Include="obj\Debug\net10.0\staticwebassets.development.json" />
+	  <Content Include="obj\Debug\net10.0\staticwebassets.references.upToDateCheck.txt" />
+	  <Content Include="obj\Debug\net10.0\staticwebassets.removed.txt" />
+	  <Content Include="obj\project.assets.json" />
+	  <Content Include="obj\PXLACO_Web.csproj.nuget.dgspec.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="obj\Debug\net10.0\staticwebassets\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="bin\Debug\net10.0\PXLACO_Web.dll" />
+	  <None Include="bin\Debug\net10.0\PXLACO_Web.exe" />
+	  <None Include="bin\Debug\net10.0\PXLACO_Web.pdb" />
+	  <None Include="obj\Debug\net10.0\apphost.exe" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.AssemblyInfoInputs.cache" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.assets.cache" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.csproj.BuildWithSkipAnalyzers" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.csproj.CoreCompileInputs.cache" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.dll" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.GeneratedMSBuildEditorConfig.editorconfig" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.genruntimeconfig.cache" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.MvcApplicationPartsAssemblyInfo.cache" />
+	  <None Include="obj\Debug\net10.0\PXLACO_Web.pdb" />
+	  <None Include="obj\Debug\net10.0\refint\PXLACO_Web.dll" />
+	  <None Include="obj\Debug\net10.0\ref\PXLACO_Web.dll" />
+	  <None Include="obj\Debug\net10.0\staticwebassets.build.json.cache" />
+	  <None Include="obj\Debug\net10.0\swae.build.ex.cache" />
+	  <None Include="obj\project.nuget.cache" />
+	  <None Include="obj\PXLACO_Web.csproj.nuget.g.props" />
+	  <None Include="obj\PXLACO_Web.csproj.nuget.g.targets" />
+	  <None Include="PXLACO_Web.slnx" />
+	</ItemGroup>
+
+</Project>
