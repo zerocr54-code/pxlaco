@@ -1,0 +1,51 @@
+﻿body {
+    background: #080808;
+    color: #00ffcc;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.card {
+    text-align: center;
+    border: 2px solid #00ffcc;
+    padding: 30px;
+    border-radius: 25px;
+    box-shadow: 0 0 30px rgba(0, 255, 204, 0.2);
+    width: 90%;
+    max-width: 400px;
+    background: #111;
+}
+
+h1 {
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+    font-weight: 900;
+}
+
+/* Hem resim hem video için ortak stil */
+#media-container img, #media-container video {
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #333;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+#timer {
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+    text-shadow: 0 0 10px #00ffcc;
+    margin-top: 10px;
+}
+
+.info p {
+    color: #888;
+    font-size: 0.9rem;
+    margin: 0;
+}
