@@ -1,8 +1,0 @@
-wwwroot\index.html
-wwwroot\Memes\EN\Aglayan_Zenci.mp4
-wwwroot\Memes\TR\Geldiler_Abi.mp4
-wwwroot\style.css
-wwwroot\script.js
-C:\Users\Quantum\OneDrive\Desktop\Web_Sitesi\PXLACO_Web\wwwroot\index.html
-C:\Users\Quantum\OneDrive\Desktop\Web_Sitesi\PXLACO_Web\wwwroot\style.css
-C:\Users\Quantum\OneDrive\Desktop\Web_Sitesi\PXLACO_Web\wwwroot\script.js
